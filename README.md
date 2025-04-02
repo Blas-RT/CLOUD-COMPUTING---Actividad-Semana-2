@@ -1,7 +1,5 @@
 # CLOUD-COMPUTING: Actividad-Semana-2
 
-# Predicción de Bancarrota Empresarial - Cloud Computing Class
-
 ## Instrucciones de uso
 
 **Paso 1:** Haz fork o clona este repositorio.  
