@@ -11,5 +11,4 @@ dependencies = [
     "numpy",
     "scikit-learn",
     "azureml",
-    "json"
 ]
