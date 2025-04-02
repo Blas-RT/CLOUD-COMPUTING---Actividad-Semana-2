@@ -16,5 +16,5 @@
 ## Autores y departamentos:
 - Nombre del equipo: **RAR Solutions**
 - Departamento de datos: Blas, Analista de datos
-- Departamento de modelos: David, Ingeniera de modelos
+- Departamento de modelos: David, Ingeniero de modelos
 - Departamento de cómputo en la nube: Rodrigo, Desplegador Supremo de Azure
