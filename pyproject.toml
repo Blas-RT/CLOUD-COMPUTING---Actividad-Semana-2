@@ -10,4 +10,6 @@ dependencies = [
     "pandas",
     "numpy",
     "scikit-learn",
+    "azureml",
+    "json"
 ]
