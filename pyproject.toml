@@ -11,10 +11,6 @@ dependencies = [
     "numpy",
     "scikit-learn",
     "azureml",
-<<<<<<< HEAD
-=======
-    "json",
     "matplotlib>=3.10.1",
     "seaborn>=0.13.2",
->>>>>>> 6c26e58388a5cb0f9c2b7444391092461ed84e83
 ]
