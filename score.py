@@ -27,6 +27,6 @@ def run(raw_data):
 
         # Perform prediction
         result = model.predict(data_dummies).tolist()
-        return json.dumps(result)
+        return json.dumps("PRed", result)
     except Exception as e:
         return json.dumps(str(e))
