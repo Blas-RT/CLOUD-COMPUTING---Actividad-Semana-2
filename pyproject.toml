@@ -13,4 +13,7 @@ dependencies = [
     "azureml",
     "matplotlib>=3.10.1",
     "seaborn>=0.13.2",
+    "azureml-core>=1.59.0.post2",
+    "azureml-sdk>=1.59.0",
+    "setuptools>=78.1.0"
 ]
