@@ -16,8 +16,6 @@ def init():
     with open(selected_columns_path, 'r') as f:
         selected_columns = json.load(f)
 
-raw_data = pd.read_csv('data_selected.csv')
-
 def run(raw_data):
     try:
         # Parse input data
@@ -32,5 +30,3 @@ def run(raw_data):
         return json.dumps(result)
     except Exception as e:
         return json.dumps(str(e))
- 
-run(raw_data)
