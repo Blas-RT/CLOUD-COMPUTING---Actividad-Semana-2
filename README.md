@@ -7,6 +7,7 @@
 **Paso 3:** Activa el entorno virtual:  
 - En Windows: `.\venv\Scripts\activate`  
 - En macOS/Linux: `source venv/bin/activate`  
+
 **Paso 4:** Instala las dependencias con `uv sync`.  
 **Paso 5:** Corre `01_preprocesamiento.ipynb` para limpiar y preparar los datos.  
 **Paso 6:** Corre `02_entrenamiento_modelo.ipynb` para entrenar el modelo de predicción.  
