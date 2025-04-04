@@ -8,9 +8,10 @@ dependencies = [
     "ipykernel>=6.29.5",
     "kagglehub",
     "pandas",
-    "numpy",
     "scikit-learn",
     "azureml",
     "matplotlib>=3.10.1",
     "seaborn>=0.13.2",
+    "azureml-sdk>=1.59.0",
+    "setuptools>=78.1.0",
 ]

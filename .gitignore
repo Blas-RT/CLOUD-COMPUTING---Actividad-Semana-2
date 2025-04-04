@@ -173,3 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 id_CONFIDENTIAL.json
+id_confidential_david.json
